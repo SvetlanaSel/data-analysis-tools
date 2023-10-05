@@ -6,4 +6,5 @@
 #базы_данных
 
 [nps](NPS.ipynb)
+
 [практика 3](pr3_tools.ipynb)
